@@ -8,11 +8,11 @@ MixJuice コンテンツの製作を促すため、ソースを公開しまし�
 当初は イチゴジャム レシピ MixJuice コンテンツ 専用の短縮 URL としていましたが、\
 他にも割り当てた方が利便性があったため、英 1 文字追加で割り当てるようになりました。
 
-## 15jr.tk 登録アドレス
+## 15jr.tk で登録している転送先 MixJuice コンテンツ
 
-現在 15jr.tk で登録している転送先は次のとおりです。
+現在 15jr.tk で登録している転送先の MixJuice コンテンツは次のとおりです。
 
-|15jr.tk|転送先|内容|
+|15jr.tk|転送先コンテンツ|内容|
 |---|---|---|
 |15jr.tk/|[15jam.netlify.com/](https://github.com/fu-sen/15jam.netlify.com)|イチゴジャム レシピ MixJuice コンテンツ|
 |15jr.tk/B|[fu-sen.github.io/IJHELP/](https://github.com/fu-sen/IJHELP)|IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ|
