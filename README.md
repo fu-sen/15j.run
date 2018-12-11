@@ -11,7 +11,7 @@ MixJuice コンテンツの製作を促すため、ソースを公開しまし�
 
 |15jr.tk|転送先|内容|
 |---|---|---|
-|15jr.tk/|[15jam.netlify.com](https://github.com/fu-sen/15jam.netlify.com)|イチゴジャム レシピ MixJuice コンテンツ|
+|15jr.tk/|[15jam.netlify.com/](https://github.com/fu-sen/15jam.netlify.com)|イチゴジャム レシピ MixJuice コンテンツ|
 |15jr.tk/B|[fu-sen.github.io/IJHELP/](https://github.com/fu-sen/IJHELP)|IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ|
 |15jr.tk/D|[kidspod.club/mj/685](http://kidspod.club/program/?id=685)|MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル|
 |15jr.tk/M|[fu-sen.github.io/mj/](https://github.com/fu-sen/mj)|MixJuice コンテンツ サンプル|
@@ -21,7 +21,7 @@ MixJuice コンテンツの製作を促すため、ソースを公開しまし�
 ## 登録について
 
 15jr.tk は イチゴジャム レシピ 関連専用なので、他者が公開するコンテンツはリンクしません。\
-同じ仕組みの 15ja.ml で様々な MixJuice コンテンツのリンク登録を行っています。
+MixJuice コンテンツのリンク登録は同じ仕組みで運用している 15ja.ml でを行っています。
 
 **15ja.ml** https://github.com/fu-sen/15ja.ml
 
