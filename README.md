@@ -8,18 +8,36 @@ MixJuice コンテンツの製作を促すため、ソースを公開しまし�
 当初は イチゴジャム レシピ MixJuice コンテンツ 専用の短縮 URL としていましたが、\
 他にも割り当てた方が利便性があったため、英 1 文字追加で割り当てるようになりました。
 
+## 使用方法
+
+**15jr.tk は MixJuice 1.2.2 および MicJack で参照できます。** \
+運営サーバ Netlify の SSL は MixJuice 1.2.1 以前では参照できませんので、\
+MixJuice を使用している場合は最新バージョンへ更新して下さい。
+
+IchigoJam BASIC と MixJuice または MicJack を接続して操作します。
+
+```
+MJ GETS 15jr.tk/
+```
+
+また英 1 文字を付加しての参照が可能です。
+
+```
+MJ GETS 15jr.tk/●
+```
+
 ## 15jr.tk で登録している転送先 MixJuice コンテンツ
 
 現在 15jr.tk で登録している転送先の MixJuice コンテンツは次のとおりです。
 
 |15jr.tk|転送先コンテンツ|内容|
 |---|---|---|
-|15jr.tk/|[15jam.netlify.com/](https://github.com/fu-sen/15jam.netlify.com)|イチゴジャム レシピ MixJuice コンテンツ|
-|15jr.tk/B|[fu-sen.github.io/IJHELP/](https://github.com/fu-sen/IJHELP)|IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ|
-|15jr.tk/D|[kidspod.club/mj/685](http://kidspod.club/program/?id=685)|MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル|
-|15jr.tk/M|[fu-sen.github.io/mj/](https://github.com/fu-sen/mj)|MixJuice コンテンツ サンプル|
-|15jr.tk/S|[kidspod.club/mj/639](http://kidspod.club/program/?id=639)|MixJuice SSL テスト|
-|15jr.tk/U|[m-j.herokuapp.com/ua.php](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)|MixJuice 向けコンテンツの作成と公開 - User Agent|
+|15jr.tk/|15jam.netlify.com/|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15jam.netlify.com)|
+|15jr.tk/B|fu-sen.github.io/IJHELP/|[IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ](https://github.com/fu-sen/IJHELP)|
+|15jr.tk/D|kidspod.club/mj/685|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
+|15jr.tk/M|fu-sen.github.io/mj/|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
+|15jr.tk/S|kidspod.club/mj/639|[MixJuice SSL テスト](http://kidspod.club/program/?id=639)|
+|15jr.tk/U|m-j.herokuapp.com/ua.php|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)|
 
 ## 登録について
 
