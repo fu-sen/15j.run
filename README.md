@@ -10,8 +10,9 @@ MixJuice コンテンツの製作を促すため、ソースを公開しまし�
 
 ## 使用方法
 
-**15jr.tk は MixJuice 1.2.2 および MicJack で参照できます。** \
-運営サーバ Netlify の SSL は MixJuice 1.2.1 以前では参照できませんので、\
+**15jr.tk の GETS は MixJuice 1.2.2 以降 および MicJack で参照できます。** \
+は MixJuice 1.2.1 以前では GET に変更して参照できますが、\
+イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 必須ですので、\
 MixJuice を使用している場合は最新バージョンへ更新して下さい。
 
 IchigoJam BASIC と MixJuice または MicJack を接続して操作します。
