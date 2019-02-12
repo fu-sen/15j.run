@@ -10,21 +10,18 @@ MixJuice コンテンツの製作を促すため、ソースを公開しまし�
 
 ## 使用方法
 
-**15jr.tk の GETS は MixJuice 1.2.2 以降 および MicJack で参照できます。** \
-は MixJuice 1.2.1 以前では GET に変更して参照できますが、\
-イチゴジャム レシピ MixJuice コンテンツは MixJuice 1.2.2 以降・MicJack 必須ですので、\
-MixJuice を使用している場合は最新バージョンへ更新して下さい。
-
 IchigoJam BASIC と MixJuice または MicJack を接続して操作します。
 
 ```
-MJ GETS 15jr.tk/
+MJ GET 15jr.tk/
 ```
+
+GET の代わりに **GETS** も使用できます。（MixJuice 1.2.2 以降・MicJack）
 
 また英 1 文字を付加しての参照が可能です。
 
 ```
-MJ GETS 15jr.tk/●
+MJ GET 15jr.tk/●
 ```
 
 ## 15jr.tk で登録している転送先 MixJuice コンテンツ
@@ -39,6 +36,8 @@ MJ GETS 15jr.tk/●
 |15jr.tk/M|fu-sen.github.io/mj/|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
 |15jr.tk/S|kidspod.club/mj/639|[MixJuice SSL テスト](http://kidspod.club/program/?id=639)|
 |15jr.tk/U|m-j.herokuapp.com/ua.php|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
+
+MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。
 
 ## 登録について
 
