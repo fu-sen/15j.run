@@ -31,13 +31,15 @@ MJ GET 15jr.tk/●
 |15jr.tk|転送先コンテンツ|内容|
 |---|---|---|
 |15jr.tk/|15jam.netlify.com/|[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15jam.netlify.com)|
+|15jr.tk/1|15.surge.sh/|[イチゴジャム レシピ MixJuice コンテンツ (GET 対応ミラー)](https://github.com/fu-sen/15jam.netlify.com)|
 |15jr.tk/B|fu-sen.github.io/IJHELP/|[IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ](https://github.com/fu-sen/IJHELP)|
 |15jr.tk/D|kidspod.club/mj/685|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15jr.tk/M|fu-sen.github.io/mj/|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
 |15jr.tk/S|kidspod.club/mj/639|[MixJuice SSL テスト](http://kidspod.club/program/?id=639)|
 |15jr.tk/U|m-j.herokuapp.com/ua.php|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
-MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。
+MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。\
+イチゴジャム レシピ MixJuice コンテンツ は GET 対応ミラー で参照できます。
 
 ## 登録について
 
