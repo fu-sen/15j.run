@@ -13,7 +13,7 @@ MixJuice コンテンツの製作を促すため、ソースを公開しまし�
 IchigoJam BASIC と MixJuice または MicJack を接続して操作します。
 
 ```
-MJ GET 15jr.tk/
+?"MJ GET 15jr.tk/
 ```
 
 GET の代わりに **GETS** も使用できます。（MixJuice 1.2.2 以降・MicJack）
@@ -21,7 +21,7 @@ GET の代わりに **GETS** も使用できます。（MixJuice 1.2.2 以降・
 また英 1 文字を付加しての参照が可能です。
 
 ```
-MJ GET 15jr.tk/●
+?"MJ GET 15jr.tk/●
 ```
 
 ## 15jr.tk で登録している転送先 MixJuice コンテンツ
