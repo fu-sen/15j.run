@@ -35,7 +35,7 @@ GET の代わりに **GETS** も使用できます。（MixJuice 1.2.2 以降・
 |15jr.tk/B|[IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ](https://github.com/fu-sen/IJHELP)|
 |15jr.tk/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15jr.tk/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
-|15jr.tk/S|[MixJuice SSL テスト](http://kidspod.club/program/?id=639)|
+|15jr.tk/S|[MixJuice SSL テスト](https://github.com/fu-sen/ijmj.ga)|
 |15jr.tk/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
 MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。\
