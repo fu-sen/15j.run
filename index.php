@@ -7,6 +7,7 @@ if ($path === '/')
     $path = '/index.html';
 }
 
+$path = strtoupper ( $path );
 $files = __DIR__ . "/www" . $path;
 
 if ( file_exists($files) && is_file($files) )
