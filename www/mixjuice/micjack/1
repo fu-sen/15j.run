@@ -1,0 +1,19 @@
+'AWRT pin status   ESP-WROOM-02
+'AREAD pin         ESP-WROOM-02
+'DWRT pin status   ESP-WROOM-02
+'DREAD pin         ESP-WROOM-02
+'LIP              Û°¶Ù IP Ë®³¼Þ
+'MACADDR        MAC ±ÄÞÚ½ Ë®³¼Þ
+'PORT [port]         Ë®³¼Þ/¾¯Ã²
+'PROXY [proxy:port]  Ë®³¼Þ/¾¯Ã²
+'PWD [key]           Ë®³¼Þ/¾¯Ã²
+'PMODE pin mode    ESP-WROOM-02
+'QGKP id     Kidspod; Quest GET
+'QPKP id    Kidspod; Quest POST
+'SOFTAP [id pass]    Ë®³¼Þ/¾¯Ã²
+'SSID [ssid]         Ë®³¼Þ/¾¯Ã²
+'SVR                  »°ÊÞ ·ÄÞ³
+
+'Enter(return) ÃÞ MixJuice ÒÆ­°
+
+?"MJ GETS 15jr.tk/mixjuice/

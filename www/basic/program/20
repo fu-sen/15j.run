@@ -1,0 +1,11 @@
+
+NEW
+
+10 I=0:R=RND(100)
+20 I=I+1:PRINT "À°Ý ";I
+30 INPUT "¶½Þ(0-99)?",K
+40 IF R<K PRINT "Á²»²":GOTO 20
+50 IF R>K PRINT "µµ·²":GOTO 20
+60 END
+
+'OK

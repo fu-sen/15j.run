@@ -1,0 +1,21 @@
+'LANG
+'
+'[·É³]
+'¹ÞÝºÞÉ ¼­Ù²¦ ¶´¼Ï½
+'
+'[¼®¼·]
+'LANG()
+'
+'[Ú²]
+'L=LANG()
+'PRINT LANG()
+'
+'[¶²¾Â]
+'¶´½ ±À²Ê Â·ÞÉÄµØÃÞ½
+' 1 ¶À¶Å¥Û°Ï¼Þ(RPi¥PC Ê 1 ºÃ²)
+' 2 ·ØÙÓ¼Þ¥ÓÝºÞÙ(IchigoJam mn)
+' 3 ÍÞÄÅÑ(IchigoJam vi)
+' 4 AZERTY Ê²ÚÂ(IchigoJam fr)
+' 6 Á­³ºÞ¸ºÞ ÎÞÎßÓÌ«(IchigoJam bp)
+
+?"MJ GETS 15jr.tk/basic/command/

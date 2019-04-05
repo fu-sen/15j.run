@@ -1,0 +1,17 @@
+'SPRITE MOVE
+'SMOVE(IchigoCake)
+'
+'[·É³] ½Ìß×²Ä¦ ²ÄÞ³ ¼Ï½¡
+'
+'[ºÏÝÄÞ]
+'PANCAKE SPRITE MOVE <ÊÞÝºÞ³>
+'<X> <Y>
+'PANCAKE SPRITE MOVE 00 11 13
+'
+'[ÊÞ²ÅØºÏÝÄÞ]
+'128 6 8 <ÊÞÝºÞ³> <X> <Y>
+'128 6 8 0 17 20
+'#80 #06 #08 <ÊÞÝºÞ³> <X> <Y>
+'#80 #06 #08 #00 #11 #14
+
+?"MJ GETS 15jr.tk/pancake/command/

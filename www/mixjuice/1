@@ -1,0 +1,21 @@
+'MixJuice ºÏÝÄÞ
+'
+'APL       ±¸¾½Îß²ÝÄ ²Á×Ý Ë®³¼Þ
+'APC (SSID) (Êß½Ü°ÄÞ)     ¾Â¿Þ¸
+'APD                      ¾ÂÀÞÝ
+'APS        ¾Â¿Þ¸ ¼Þ®³À² (1.0~)
+'GET (±ÄÞÚ½)           GET Â³¼Ý
+'GETS (±ÄÞÚ½)  https+GET (1.0~)
+'MAC MixJuice Mac ±ÄÞÚ½(1.2.1~)
+'PCT (Content-Type)    (1.2.0~)
+'POST START (±ÄÞÚ½)POST Â³¼Ý¶²¼
+'POST END          POST Â³¼ÝµÜØ
+'POSTS START (±ÄÞÚ½)
+'      https+POST Â³¼Ý¶²¼(1.0~)
+'POSTS END  POSTS Â³¼ÝµÜØ(1.0~)
+'SLEEP (ËÞ®³)        ¾ÂÃÞÝ Ó°ÄÞ
+'SPW (ÐØËÞ®³) ³ª²Ä¾¯Ã² (1.0.4~)
+
+'Enter(return) ÃÞ MixJuice ÒÆ­°
+
+?"MJ GETS 15jr.tk/mixjuice/
