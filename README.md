@@ -27,11 +27,12 @@ MixJuice コンテンツがまだまだ少ないので、\
 
 ## 短縮 URL の使用方法
 
-15jr.tk に英 1 文字を付加します。
+15jr.tk/英 1 文字 で使用します。
 
 ```
 ?"MJ GET 15jr.tk/●
 ```
+
 MixJuice コンテンツは次のとおりです。
 
 |15jr.tk  |内容|
@@ -41,6 +42,7 @@ MixJuice コンテンツは次のとおりです。
 |15jr.tk/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15jr.tk/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
 |15jr.tk/S|[MixJuice SSL テスト](https://github.com/fu-sen/ijmj.ga)|
+|15jr.tk/T|短縮 URL メニュー|
 |15jr.tk/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
 MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。
