@@ -36,7 +36,7 @@ MixJuice コンテンツは次のとおりです。
 
 |15jr.tk  |内容|
 |---------|---|
-|15jr.tk/ |[イチゴジャム レシピ MixJuice コンテンツ](https://github.com/fu-sen/15jam.netlify.com)|
+|15jr.tk/ |イチゴジャム レシピ MixJuice コンテンツ|
 |15jr.tk/B|[IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ](https://github.com/fu-sen/IJHELP)|
 |15jr.tk/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15jr.tk/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
