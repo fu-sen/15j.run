@@ -2,9 +2,9 @@
 
 $path = @parse_url($_SERVER['REQUEST_URI'])['path'];
 
-if ($path === '/')
+if ( substr ( $path , -1 ) === "/" )
 {
-    $path = '/index.html';
+    $path .= 'index.html';
 }
 
 $path = strtolower ( $path );
