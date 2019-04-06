@@ -56,6 +56,36 @@ MixJuice コンテンツのリンク登録は同じ仕組みで運用してい�
 
 [**MixJuice 向けコンテンツの作成と公開 | イチゴジャム レシピ**](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)
 
+## 15jr.tk の仕組み
+
+2019年4月5日 の MixJuice コンテンツ・短縮 URL と統合すると共に\
+[Google App Engine](https://cloud.google.com/appengine/docs/whatisgoogleappengine?hl=ja) で動作させています。
+
+PHP 7.2 のランタイムでは index.php を必ず呼び出すため、\
+index.php で読み出すファイルを選定し、\
+なければ 404.php を出力します。
+
+www 内が出力ファイルの本体で、これらは通常の静的ファイルです。
+
+GitHub へ git push した時に自動ビルド（デプロイ）する方法は次のとおりです。
+
+1. [ビルドトリガー](https://console.cloud.google.com/cloud-build/triggers?hl=ja) で作成し、対象の GitHub を割り当てます。\
+（この代わりに GitHub 側で [Google Cloud Build](https://github.com/apps/google-cloud-build) をインストールして同じ動作が可能です）
+1. [App Engine Admin API](https://console.cloud.google.com/apis/library/appengine.googleapis.com?q=app%20engine) を有効にします。
+1. [設定ページ](https://console.cloud.google.com/iam-admin/settings) でプロジェクト番号を確認します。
+1. [IAMと管理ページ](https://console.cloud.google.com/iam-admin/iam) で  **プロジェクト番号@cloudbuild.gserviceaccount.com** に対し、\
+   App Engine の権限を追加します。必要であれば他の権限も追加します。
+
+ビルドに 1 分半以上要します。また無料でビルドできる回数に制限があります。\
+git push 更新が多く発生する場合はビルドトリガーのトリガーページより無効にして、\
+git push で更新後、手動でトリガーを実行して、実行回数を必要最小限にして下さい。
+
+[cloudbuild.yaml](https://github.com/fu-sen/15jr.tk/blob/master/cloudbuild.yaml) はリポジトリの構成ファイルで **gcloud app deploy** する動作です。\
+GitHub の [Google Cloud Build](https://github.com/apps/google-cloud-build) を指定する場合、**--project=プロジェクト名** を加える必要があるかもしれません。
+
+[Deploy to Google App Engine via a GitHub Repo | Stack Overflow](https://stackoverflow.com/questions/41308888/deploy-to-google-app-engine-via-a-github-repo)\
+[Continuous deployment to App Engine using Google Cloud Build | Leigh McCulloch Posts](https://leighmcculloch.com/posts/continuous-deployment-to-app-engine-using-google-cloud-build/)
+
 ## 関連 Web サイト
 
 **IchigoJam** https://ichigojam.net/ \
