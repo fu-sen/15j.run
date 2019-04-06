@@ -63,13 +63,14 @@ MixJuice コンテンツのリンク登録は同じ仕組みで運用してい�
 
 PHP 7.2 のランタイムでは index.php を必ず呼び出すため、\
 index.php で読み出すファイルを選定し、\
-なければ 404.php を出力します。
+該当のファイルがなければ 404.php を出力します。\
+この Not Found 表示の考慮で PHP を使用する必要がありました。
 
 www 内が出力ファイルの本体で、これらは通常の静的ファイルです。
 
 GitHub へ git push した時に自動ビルド（デプロイ）する方法は次のとおりです。
 
-1. [ビルドトリガー](https://console.cloud.google.com/cloud-build/triggers?hl=ja) で作成し、対象の GitHub を割り当てます。\
+1. [Cloud Build](https://console.cloud.google.com/cloud-build/triggers?hl=ja) でトリガーを作成し、対象の GitHub リポジトリを割り当てます。\
 （この代わりに GitHub 側で [Google Cloud Build](https://github.com/apps/google-cloud-build) をインストールして同じ動作が可能です）
 1. [App Engine Admin API](https://console.cloud.google.com/apis/library/appengine.googleapis.com?q=app%20engine) を有効にします。
 1. [設定ページ](https://console.cloud.google.com/iam-admin/settings) でプロジェクト番号を確認します。
@@ -81,7 +82,7 @@ git push 更新が多く発生する場合はビルドトリガーのトリガ�
 git push で更新後、手動でトリガーを実行して、実行回数を必要最小限にして下さい。
 
 [cloudbuild.yaml](https://github.com/fu-sen/15jr.tk/blob/master/cloudbuild.yaml) はリポジトリの構成ファイルで **gcloud app deploy** する動作です。\
-GitHub の [Google Cloud Build](https://github.com/apps/google-cloud-build) を指定する場合、**--project=プロジェクト名** を加える必要があるかもしれません。
+GitHub の Google Cloud Build を用いる場合は args の項目追加が必要かもしれません。
 
 [Deploy to Google App Engine via a GitHub Repo | Stack Overflow](https://stackoverflow.com/questions/41308888/deploy-to-google-app-engine-via-a-github-repo)\
 [Continuous deployment to App Engine using Google Cloud Build | Leigh McCulloch Posts](https://leighmcculloch.com/posts/continuous-deployment-to-app-engine-using-google-cloud-build/)
