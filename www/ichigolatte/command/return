@@ -1,12 +1,14 @@
 'return
 '
 '[·É³]
+'function ¶× ÓÄÞØ¤
 '¶´½ ±À²¦ ¾¯Ã² ¼Ï½¡
 '
 '[¼®¼·]
-'return([<±À²>][,<±À²>][,...])
+'return [<±À²>]
 '
 '[Ú²]
-'return(1);
+'return
+'return 1;
 
 ?"MJ GET 15jr.tk/ichigolatte/command/
