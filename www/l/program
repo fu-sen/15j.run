@@ -1,19 +1,19 @@
-ï£³ ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ ï½²ï¾ï¾—ï¾
- lash>echo MJ GET(S) 15j.run/l/ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘> uart;cat uart > .
+ÿ ÌßÛ¸Ş×Ñ ²Á×İ
+ lash>echo MJ GET(S) 15j.run/l/ÌßÛ¸Ş×Ñ> uart;cat uart > .
 
- ï¾Œï¾Ÿï¾›ï½¸ï¾ï¾—ï¾‘ =  ()=IchigoLatte ver.
-[balloon  ] ï¾Œï½³ï½¾ï¾ (0.9~)
-[balloono ] ï¾Œï½³ï½¾ï¾ (0.7~)
-[chrcode  ] ï½·ï½¬ï¾—ï½¸ï¾€ï½°ï½ºï½°ï¾„ï¾ï½²ï¾ï¾—ï¾
-[chrcode20] ï½·ï½¬ï¾—ï½¸ï¾€ï½°ï½ºï½°ï¾„ï¾ï½²ï¾ï¾—ï¾ 10ï½¼ï¾
+ ÌßÛ¸Ş×Ñ =  ()=IchigoLatte ver.
+[balloon  ] Ì³¾İ (0.9~)
+[balloono ] Ì³¾İ (0.7~)
+[chrcode  ] ·¬×¸À°º°ÄŞ²Á×İ
+[chrcode20] ·¬×¸À°º°ÄŞ²Á×İ 10¼İ
 [filesjam ] FILES~IchigoJam
 [filescake] FILES~IchigoCake
-[format   ] EEPROM ï¾Œï½«ï½°ï¾ï½¯ï¾€
-[kazuate  ] ï½¶ï½½ï¾ï½±ï¾ƒ ï½¶ï¾… ï¾Šï¾ï¾
-[kazuatee ] ï½¶ï½½ï¾ï½±ï¾ƒ English ver.
-[lsprogram] ls~ï½·ï¾‰ï½³ ï½¶ï½¸ï¾ï½®ï½³ ï¾Šï¾ï¾
-[random   ] ï¾—ï¾ï¾€ï¾ï¾‘ï½¶ï¾ï¾’ï¾ (0.9~)
-[randomo  ] ï¾—ï¾ï¾€ï¾ï¾‘ï½¶ï¾ï¾’ï¾ (0.7~)
-[terminal ] ï¾€ï½°ï¾ï¾…ï¾™ (1.0.0b8~)
+[format   ] EEPROM Ì«°Ï¯À
+[kazuate  ] ¶½Ş±Ã ¶Å ÊŞİ
+[kazuatee ] ¶½Ş±Ã English ver.
+[lsprogram] ls~·É³ ¶¸Á®³ ÊŞİ
+[random   ] ×İÀŞÑ¶ŞÒİ (0.9~)
+[randomo  ] ×İÀŞÑ¶ŞÒİ (0.7~)
+[terminal ] À°ĞÅÙ (1.0.0b8~)
 
 

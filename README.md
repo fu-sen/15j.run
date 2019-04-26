@@ -40,12 +40,50 @@ MixJuice コンテンツは次のとおりです。
 
 MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。
 
+イチゴジャム レシピ で公開している IchigoLatte のプログラム・コマンド一覧をまとめた\
+専用の短縮 URL です。\
+IchigoLatte 向けの MixJuice コンテンツは他に公開されていないため、\
+ソースを公開する事で製作を促します。
+
+## IchigoLatte＋MicJuice コンテンツ
+
+![スクリーンショット IchigoLatte](screenshot-l.jpg)
+
+15jr.ml で公開していた IchigoLatte＋MicJuice コンテンツも現在 15j.run 内に含めています。
+
+lash より次のコマンドを入れます。（以後 lash> は入力不要です）
+
+```
+lash>echo MJ GET 15j.run/l/> uart;cat uart
+```
+
+GET の代わりに **GETS** も使用可能です。（MixJuice 1.2.2 以降・MicJack）
+
+15j.run/l/ に入っているプログラム一覧は次で表示できます。
+
+```
+lash>echo MJ GET 15j.run/l/program> uart;cat uart
+```
+
+プログラムは次のコマンドでダウンロードします。
+
+```
+lash>echo MJ GET 15j.run/l/プログラム> uart;cat uart > .
+```
+
+IchigoLatte のコマンド表示は次で表示します。
+
+```
+lash>echo MJ GET 15j.run/l/コマンド> uart;cat uart
+```
+
 ## MixJuice コンテンツ製作 について
 
 [**MixJuice 向けコンテンツの作成と公開 | イチゴジャム レシピ**](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)
 ## 関連 Web サイト
 
 **IchigoJam** https://ichigojam.net/ \
+**IchigoLatte** http://ichigolatte.shizentai.jp/ \
 **MixJuice** http://mixjuice.shizentai.jp/
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdo.com/
