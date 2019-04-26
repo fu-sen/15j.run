@@ -41,3 +41,4 @@ while(l<2){
 
 uart("PANCAKE VIDEO 00\n");
 video(1);
+

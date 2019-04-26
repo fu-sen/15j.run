@@ -15,3 +15,4 @@ while(inkey()==0){}
 uart("PANCAKE VIDEO 00\n");
 
 video(1);
+

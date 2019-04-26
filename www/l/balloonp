@@ -27,3 +27,4 @@ uart("FF\n");
 uart("PANCAKE VIDEO 00\n");
 
 video(1);
+

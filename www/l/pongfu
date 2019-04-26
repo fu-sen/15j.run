@@ -39,3 +39,4 @@ while(inkey()==0){}
 uart("PC SPRITE START FF\n");
 uart("PC VIDEO 00\n");
 video(1);
+
