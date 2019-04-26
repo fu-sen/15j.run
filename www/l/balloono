@@ -1,0 +1,17 @@
+var x;
+
+cls();
+
+while (1)
+{
+  x=rnd(30)+1;
+
+  lc(x,23);
+  log("è\n");
+
+  lc(x,23);
+  log("l");
+
+  sleep(100);
+}
+

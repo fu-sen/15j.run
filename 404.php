@@ -10,4 +10,4 @@ header('Content-Type: text/plain');
 'ƒ‹‰Œƒ‹ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 
 <?php
-echo '?"MJ GET 15jr.tk' . $path;
+echo '?"MJ GET 15j.run' . $path;

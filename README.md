@@ -1,29 +1,12 @@
 ## イチゴジャム レシピ MixJuice コンテンツ
 
-___
-
-お知らせ(2019/04/19・2019/04/21 更新)\
-現在ドメイン 15jr.tk が freenom より参照停止されています。\
-対応していますが、復旧できても数日要すると思われますので、\
-ijmj.eu.org で代わりに運用中です。
-
-```
-?"MJ GET(S) ijmj.eu.org/
-```
-
-イチゴジャム レシピ関連の短縮メニューは `?"MJ GET(S) ijmj.eu.org/t/` 内にしています。\
-`?"MJ GET(S) ijmj.eu.org/● は [15ja.ml](https://github.com/fu-sen/15ja.ml) の短縮 URL にしています。
-
-___
-
-
 ![スクリーンショット](screenshot.jpg)
 
 IchigoJam BASIC＋MixJuice で参照できるコンテンツです。\
 MixJuice コンテンツがまだまだ少ないので、\
 サンプルとしてソースを公開する事にしました。
 
-2019年4月5日より、独自ドメイン **15jr.tk** へ移しました。\
+2019年4月26日より、独自ドメイン **15j.run** へ移しました。\
 一部 PHP で処理させるため、[Google App Engine](https://cloud.google.com/appengine/docs/whatisgoogleappengine?hl=ja) を採用しています。\
 従来 15jr.tk で行っていた短縮 URL も含めてあります。
 
@@ -32,42 +15,30 @@ MixJuice コンテンツがまだまだ少ないので、\
 次のコマンドで参照できます。GET の代わりに GETS も使用可能です。
 
 ```
-?"MJ GET 15jr.tk/
-```
-
-また、[15ja.ml](https://github.com/fu-sen/15ja.ml) にも入れてあります。15ja.ml/**R**（Recipe）です。\
-こちらも GET の代わりに GETS を使用可能です。
-
-```
-?"MJ GET 15ja.ml/R
+?"MJ GET 15j.run/
 ```
 
 ## 短縮 URL の使用方法
 
-15jr.tk/英 1 文字 で使用します。
+15j.run/英 1 文字 で使用します。
 
 ```
-?"MJ GET 15jr.tk/●
+?"MJ GET 15j.run/●
 ```
 
 MixJuice コンテンツは次のとおりです。
 
-|15jr.tk  |内容|
+|15j.run  |内容|
 |---------|---|
-|15jr.tk/ |イチゴジャム レシピ MixJuice コンテンツ|
-|15jr.tk/B|[IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ](https://github.com/fu-sen/IJHELP)|
-|15jr.tk/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
-|15jr.tk/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
-|15jr.tk/S|[MixJuice SSL テスト](https://github.com/fu-sen/ijmj.ga)|
-|15jr.tk/T|短縮 URL メニュー|
-|15jr.tk/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
+|15j.run/ |イチゴジャム レシピ MixJuice コンテンツ|
+|15j.run/B|[IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ](https://github.com/fu-sen/IJHELP)|
+|15j.run/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
+|15j.run/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj)|
+|15j.run/S|[MixJuice SSL テスト](https://github.com/fu-sen/ijmj.ga)|
+|15j.run/T|短縮 URL メニュー|
+|15j.run/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
 MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。
-
-15jr.tk は イチゴジャム レシピ 関連専用なので、他者が公開するコンテンツはリンクしません。\
-MixJuice コンテンツのリンク登録は同じ仕組みで運用している 15ja.ml で行っています。
-
-**15ja.ml** https://github.com/fu-sen/15ja.ml
 
 ## MixJuice コンテンツ製作 について
 

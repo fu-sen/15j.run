@@ -1,0 +1,19 @@
+ ﾌﾟﾛｸﾞﾗﾑ ｲﾁﾗﾝ
+ lash>echo MJ GET(S) 15j.run/l/ﾌﾟﾛｸﾞﾗﾑ> uart;cat uart > .
+
+ ﾌﾟﾛｸﾞﾗﾑ =  ()=IchigoLatte ver.
+[balloon  ] ﾌｳｾﾝ (0.9~)
+[balloono ] ﾌｳｾﾝ (0.7~)
+[chrcode  ] ｷｬﾗｸﾀｰｺｰﾄﾞｲﾁﾗﾝ
+[chrcode20] ｷｬﾗｸﾀｰｺｰﾄﾞｲﾁﾗﾝ 10ｼﾝ
+[filesjam ] FILES~IchigoJam
+[filescake] FILES~IchigoCake
+[format   ] EEPROM ﾌｫｰﾏｯﾀ
+[kazuate  ] ｶｽﾞｱﾃ ｶﾅ ﾊﾞﾝ
+[kazuatee ] ｶｽﾞｱﾃ English ver.
+[lsprogram] ls~ｷﾉｳ ｶｸﾁｮｳ ﾊﾞﾝ
+[random   ] ﾗﾝﾀﾞﾑｶﾞﾒﾝ (0.9~)
+[randomo  ] ﾗﾝﾀﾞﾑｶﾞﾒﾝ (0.7~)
+[terminal ] ﾀｰﾐﾅﾙ (1.0.0b8~)
+
+
