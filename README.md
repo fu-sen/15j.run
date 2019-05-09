@@ -31,7 +31,6 @@ MixJuice コンテンツは次のとおりです。
 |15j.run  |内容|
 |---------|---|
 |15j.run/ |イチゴジャム レシピ MixJuice コンテンツ|
-|15j.run/B|[IchigoJam BASIC コマンド一覧 - MixJuice コンテンツ](https://github.com/fu-sen/IJHELP)|
 |15j.run/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15j.run/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/ijmj.eu.org)|
 |15j.run/S|[MixJuice SSL テスト](https://github.com/fu-sen/mixjuice-ssl.net.eu.org)|
