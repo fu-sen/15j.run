@@ -37,13 +37,6 @@ MixJuice コンテンツは次のとおりです。
 |15j.run/T|短縮 URL メニュー|
 |15j.run/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
-MixJuice 1.2.1 以前では一部参照できません。最新バージョンへ更新して下さい。
-
-イチゴジャム レシピ で公開している IchigoLatte のプログラム・コマンド一覧をまとめた\
-専用の短縮 URL です。\
-IchigoLatte 向けの MixJuice コンテンツは他に公開されていないため、\
-ソースを公開する事で製作を促します。
-
 ## MixJuice コンテンツ製作 について
 
 [**MixJuice 向けコンテンツの作成と公開 | イチゴジャム レシピ**](https://15jamrecipe.jimdo.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)
