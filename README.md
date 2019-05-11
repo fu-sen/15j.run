@@ -8,7 +8,7 @@ MixJuice コンテンツがまだまだ少ないので、\
 
 2019年4月26日より、独自ドメイン **15j.run** へ移しました。\
 一部 PHP で処理させるため、[Google App Engine](https://cloud.google.com/appengine/docs/whatisgoogleappengine?hl=ja) を採用しています。\
-従来 15jr.tk で行っていた短縮 URL も含めてあります。
+従来行っていた短縮 URL も含めてあります。
 
 ## MixJuice コンテンツの使用方法
 
