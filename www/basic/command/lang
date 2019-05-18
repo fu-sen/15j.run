@@ -8,7 +8,6 @@
 '
 '[з╡]
 'L=LANG()
-'PRINT LANG()
 '
 '[╤╡╬б]
 '╤╢╫ ╠ю╡й б╥чид╣ьцч╫
@@ -16,6 +15,8 @@
 ' 2 ╥ьыс╪ч╔сщ╨чы(IchigoJam mn)
 ' 3 мчдея(IchigoJam vi)
 ' 4 AZERTY й╡зб(IchigoJam fr)
-' 6 а╜Ё╨ч╦╨ч нчнъсл╚(IchigoJam bp)
+' 6 а╜Ё╨ч╦╨ч нчнъсл╚
+'                (IchigoJam bp)
+'1.3b08 жь VER(3) м мщ╨Ё ╩зц╡о╫
 
 ?"MJ GET 15j.run/basic/command/
