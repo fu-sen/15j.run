@@ -12,7 +12,8 @@ MixJuice コンテンツがまだまだ少ないので、\
 
 ## MixJuice コンテンツの使用方法
 
-次のコマンドで参照できます。GET の代わりに GETS も使用可能です。
+次のコマンドで参照できます。
+MixJuice 1.2.2 以降および MicJack は GET の代わりに GETS も使用可能です。
 
 ```
 ?"MJ GET 15j.run/
