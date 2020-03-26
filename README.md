@@ -51,4 +51,4 @@ MixJuice コンテンツは次のとおりです。
 
 - [**IchigoJam Advent Calendar 2018 | Qiita**](https://qiita.com/advent-calendar/2018/ichigojam)
 - [**翌日 11 日目**<br />円形WS2812Bx2でお手軽工作エモメガネペンダント！ IoTプログラミングで明日を創ろう - 福井市美山中学校会社訪問＆IoT体験 | 福野泰介の一日一創 - create every day](http://fukuno.jig.jp/2331)
-- [**前日 9 日目**<br />IchigoJam 画面の画像を撮る方法。 | ふうせん Fu-sen.](https://blog.balloon.im/2018/12/ichigojam-%E7%94%BB%E9%9D%A2%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E6%92%AE%E3%82%8B%E6%96%B9%E6%B3%95/)
+- [**前日 9 日目**<br />IchigoJam 画面の画像を撮る方法。 | ふうせん🎈 Fu-sen.](https://blog.balloon.im/2018/12/ichigojam-%E7%94%BB%E9%9D%A2%E3%81%AE%E7%94%BB%E5%83%8F%E3%82%92%E6%92%AE%E3%82%8B%E6%96%B9%E6%B3%95/)
