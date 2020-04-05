@@ -45,7 +45,7 @@ MixJuice コンテンツは次のとおりです。
 **IchigoJam** https://ichigojam.net/ \
 **MixJuice** http://mixjuice.shizentai.jp/
 
-**イチゴジャム レシピ** https://15jamrecipe.jimdo.com/
+**イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
 
 ## IchigoJam Advent Calendar 2018 - 10 日目
 
