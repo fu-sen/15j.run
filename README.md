@@ -12,7 +12,8 @@ MixJuice コンテンツがまだまだ少ないので、\
 
 ## MixJuice コンテンツの使用方法
 
-次のコマンドで参照できます。GET の代わりに GETS も使用可能です。
+次のコマンドで参照できます。GET の代わりに GETS も使用可能です。\
+（GETS は MixJuice 1.2.2 以降で参照可能）
 
 ```
 ?"MJ GET 15j.run/
@@ -28,7 +29,7 @@ MixJuice コンテンツがまだまだ少ないので、\
 
 MixJuice コンテンツは次のとおりです。
 
-|15j.run  |内容|
+|アドレス |内容|
 |---------|---|
 |15j.run/ |イチゴジャム レシピ MixJuice コンテンツ|
 |15j.run/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
