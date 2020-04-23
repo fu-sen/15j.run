@@ -32,6 +32,7 @@ MixJuice コンテンツは次のとおりです。
 |アドレス |内容|
 |---------|---|
 |15j.run/ |イチゴジャム レシピ MixJuice コンテンツ|
+|15j.run/C|[伝言板（時差チャット）](http://kidspod.club/program/?id=959)|
 |15j.run/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15j.run/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/ij.skr.jp)|
 |15j.run/T|短縮 URL メニュー|
