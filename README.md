@@ -18,27 +18,27 @@ Apache が動作しているサーバなので、一部 `.htaccess` および SS
 （GETS は MixJuice 1.2.2 以降で参照可能）
 
 ```
-?"MJ GET 15j.run/
+?"MJ GET 15J.RUN/
 ```
 
 ## 短縮 URL の使用方法
 
-15j.run/英 1 文字 で使用します。
+15J.RUN/英 1 文字 で使用します。
 
 ```
-?"MJ GET 15j.run/●
+?"MJ GET 15J.RUN/●
 ```
 
 MixJuice コンテンツは次のとおりです。
 
 |アドレス |内容|
 |---------|---|
-|15j.run/ |イチゴジャム レシピ MixJuice コンテンツ|
-|15j.run/C|[伝言板（時差チャット）](http://kidspod.club/program/?id=959)|
-|15j.run/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
-|15j.run/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/ij.skr.jp)|
-|15j.run/T|短縮 URL メニュー|
-|15j.run/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
+|15J.RUN/ |イチゴジャム レシピ MixJuice コンテンツ|
+|15J.RUN/C|[伝言板（時差チャット）](http://kidspod.club/program/?id=959)|
+|15J.RUN/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
+|15J.RUN/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/ij.skr.jp)|
+|15J.RUN/T|短縮 URL メニュー|
+|15J.RUN/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
 ## MixJuice コンテンツ製作 について
 
