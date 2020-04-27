@@ -7,8 +7,10 @@ MixJuice コンテンツがまだまだ少ないので、\
 サンプルとしてソースを公開する事にしました。
 
 2019年4月26日より、独自ドメイン **15j.run** へ移しました。\
-一部 PHP で処理させるため、[Google App Engine](https://cloud.google.com/appengine/docs/whatisgoogleappengine?hl=ja) を採用しています。\
 従来行っていた短縮 URL も含めてあります。
+
+2020年4月27日より、[さくらのレンタルサーバ](https://www.sakura.ne.jp/) を採用しています。\
+Apache が動作しているサーバなので、一部 `.htaccess` および SSI を用いて処理しています。
 
 ## MixJuice コンテンツの使用方法
 
