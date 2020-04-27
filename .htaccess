@@ -1,6 +1,6 @@
 DirectoryIndex index
 
-ErrorDocument 404 /404.php
+ErrorDocument 404 /404.shtml
 
 RewriteEngine On
 
