@@ -3,4 +3,5 @@
 '…Š ……Š       404 - Not Found
 'ƒ‹‰Œƒ‹ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 
-?"MJ GET 15j.run<!--#echo var="REQUEST_URI" -->
+<?php
+print '?"MJ GET 15j.run' . $path;
