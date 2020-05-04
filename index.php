@@ -8,6 +8,12 @@ if ( substr ( $path , -1 ) === "/" )
 }
 
 $paths = strtolower ( $path );
+
+if ( $paths == "/index.php" )
+{
+    $paths = "/index";
+}
+
 $files = __DIR__ . $paths;
 
 if ( file_exists($files) && is_file($files) )
