@@ -12,4 +12,4 @@
 
 'Enter(return)·° ÃÞ Ë®³¼Þ ¼Ï½¡
 
-?"MJ GET fu-sen.sakura.ne.jp/IT/
+?"MJ GET 15C.BALLOON.NET.EU.ORG/
