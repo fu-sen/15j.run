@@ -10,7 +10,8 @@ MixJuice コンテンツがまだまだ少ないので、\
 従来行っていた短縮 URL も含めてあります。
 
 2020年4月27日より、[さくらのレンタルサーバ](https://www.sakura.ne.jp/) を採用しています。\
-Apache が動作しているサーバなので、`.htaccess` より必ず `index.php` 経由で処理処理しています。\
+Apache が動作しているサーバなので、\
+[`.htaccess`](https://github.com/fu-sen/15j.run/blob/master/.htaccess) より [`index.php`](https://github.com/fu-sen/15j.run/blob/master/index.php) を実行して処理しています。\
 これにより URI の小文字変換を実現しています。
 
 ## MixJuice コンテンツの使用方法
@@ -24,17 +25,17 @@ Apache が動作しているサーバなので、`.htaccess` より必ず `index
 
 ## 短縮 URL の使用方法
 
-15J.RUN/英 1 文字 で使用します。
+ふうせん🎈 Fu-sen. が公開している関連の MixJuice コンテンツは\
+`15J.RUN/英 1 文字` の短縮 URL を用意し、素早く参照できるようにしています。
 
 ```
 ?"MJ GET 15J.RUN/●
 ```
 
-MixJuice コンテンツは次のとおりです。
+対応している MixJuice コンテンツ は次のとおりです。
 
 |アドレス |内容|
 |---------|---|
-|15J.RUN/ |イチゴジャム レシピ MixJuice コンテンツ|
 |15J.RUN/C|[伝言板（時差チャット）](http://kidspod.club/program/?id=959)|
 |15J.RUN/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15J.RUN/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/ij.skr.jp)|
@@ -43,7 +44,7 @@ MixJuice コンテンツは次のとおりです。
 
 ## MixJuice コンテンツ製作 について
 
-[**MixJuice 向けコンテンツの作成と公開 | イチゴジャム レシピ**](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)
+[MixJuice 向けコンテンツの作成と公開 | イチゴジャム レシピ](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)
 
 ## 関連 Web サイト
 
@@ -52,7 +53,9 @@ MixJuice コンテンツは次のとおりです。
 
 **イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
 
-Powered by さくらのレンタルサーバ https://www.sakura.ne.jp/
+## Powered by
+
+さくらのレンタルサーバ https://www.sakura.ne.jp/
 
 ## IchigoJam Advent Calendar 2018 - 10 日目
 
