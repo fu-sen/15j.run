@@ -25,7 +25,7 @@ Apache が動作しているサーバなので、\
 
 ## 短縮 URL の使用方法
 
-ふうせん🎈 Fu-sen. が公開している関連の MixJuice コンテンツは\
+[ふうせん🎈 Fu-sen.](https://jpn.balloon.im/) が公開している関連の MixJuice コンテンツは\
 `15J.RUN/英 1 文字` の短縮 URL を用意し、素早く参照できるようにしています。
 
 ```
