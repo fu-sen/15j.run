@@ -48,10 +48,10 @@ Apache が動作しているサーバなので、\
 
 ## 関連 Web サイト
 
-**IchigoJam** https://ichigojam.net/ \
-**MixJuice** http://mixjuice.shizentai.jp/
+IchigoJam https://ichigojam.net/ \
+MixJuice http://mixjuice.shizentai.jp/
 
-**イチゴジャム レシピ** https://15jamrecipe.jimdofree.com/
+イチゴジャム レシピ https://15jamrecipe.jimdofree.com/
 
 ## Powered by
 
