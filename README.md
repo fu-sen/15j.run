@@ -42,6 +42,8 @@ Apache が動作しているサーバなので、\
 |15J.RUN/T|短縮 URL メニュー|
 |15J.RUN/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 
+他の人が作成した MixJuice コンテンツの短縮 URL は [15jm.li](https://github.com/fu-sen/15jm.li) で提供しています。
+
 ## MixJuice コンテンツ製作 について
 
 [MixJuice 向けコンテンツの作成と公開 | イチゴジャム レシピ](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)
