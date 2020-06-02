@@ -1,1 +1,1 @@
-?"MJ GET fusen.ddns.net/upload/
+?"MJ GET 15.balloon.tel/upload/
