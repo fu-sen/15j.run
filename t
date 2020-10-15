@@ -3,7 +3,6 @@
 '……‡ƒ…‰…… …    ÀÝ¼­¸ URL MENU
 '… …Œ„…‚…‰ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 
-'[C] ÃÞÝºÞÝÊÞÝ (¼Þ» Á¬¯Ä)
 '[D] ÄÞ³Ã· ºÝÃÝÂ ¾²¾² »ÝÌßÙ
 '[M] MixJuice ºÝÃÝÂ »ÝÌßÙ
 '[U] User Agent
