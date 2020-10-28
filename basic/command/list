@@ -20,4 +20,4 @@
 '1.2b20 ÷ÿ -<º≠≥ÿÆ≥>√ﬁø…∑ﬁÆ≥œ√ﬁ
 '<∂≤º>,0 √ﬁ<∂≤º>≤∫≥… ÀÆ≥ºﬁ∆≈ÿœΩ
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

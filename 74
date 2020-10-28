@@ -1,3 +1,3 @@
 ' - - - - - - - - - - - - - - -
 
-?"MJ GET 15j.run/mixjuice/4
+?"MJ <?php print"$get"; ?> 15j.run/mixjuice/4

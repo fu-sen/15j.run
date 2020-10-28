@@ -13,4 +13,4 @@
 '0.9 ÃÞ Ê²¼ »ÚÏ¼À¡
 '¶ÜØÆ sin8 ¦ ¼Ö³¼Ã ¸ÀÞ»²¡
 
-?"MJ GET 15j.run/ichigolatte/command/
+?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/

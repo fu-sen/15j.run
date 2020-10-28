@@ -17,4 +17,4 @@
 '¹À½³¦ ÊÐÀÞ½ÊÞ±²Ê ¶²¦ Ë®³¼Þ¼Ï½
 '(DEC$(123,2) -> 23)
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

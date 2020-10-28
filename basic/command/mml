@@ -18,4 +18,4 @@
 '$ ºº¶× ±ÄÉ MML ¦ ¸Ø¶´½
 'N<À¶»> µÄ¦ ÀÞ½ (BEEP ·®³Â³)
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

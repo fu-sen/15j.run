@@ -20,4 +20,4 @@
 '  17=OUT1/5 ON  34=OUT2/6 ON
 '   0=½ÍÞÃ OFF
 
-?"MJ GET 15j.run/ichigonquest/spell/
+?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/

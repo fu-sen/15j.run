@@ -20,4 +20,4 @@
 'OUT 1,-1~OUT 4,-1 √ﬁ
 'OUT 1~4 ¶ IN5~8 Õ‹ÿ±√œΩ
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

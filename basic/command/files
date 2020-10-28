@@ -16,4 +16,4 @@
 'FILES 0 ÃÞ EEPROM ¦Ì¸Ñ
 '½ÍÞÃ¦ Ë®³¼Þ¼Ï½
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

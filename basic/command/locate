@@ -15,4 +15,4 @@
 '╠ю╡╤ч <╡а> ипи йч╠╡й
 'кючь Ё╢ ╤ви ╡аф еьо╫║
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

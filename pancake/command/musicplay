@@ -18,4 +18,4 @@
 [¶²¾Â]
 '<Ó°ÄÞ> Ê 01=»²¾²¤00=Ã²¼ ÃÞ½¡
 
-?"MJ GET 15j.run/pancake/command/
+?"MJ <?php print"$get"; ?> 15j.run/pancake/command/

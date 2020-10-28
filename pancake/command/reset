@@ -12,4 +12,4 @@
 '128 3 13
 '#80 #03 #0D
 
-?"MJ GET 15j.run/pancake/command/
+?"MJ <?php print"$get"; ?> 15j.run/pancake/command/

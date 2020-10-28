@@ -13,4 +13,4 @@
 '<ÊÞÝºÞ³> Ê Â·Þ¦ ¾¯Ã²ÃÞ·Ï½¡
 ' 0=BTN 2=IN2 5~8=OUT1~4
 
-?"MJ GET 15j.run/ichigolatte/command/
+?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/

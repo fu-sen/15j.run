@@ -18,4 +18,4 @@
 'Û¹°Ä¥LC Y(ÀÃ »ÞË®³)¶Þ 23 ÀÞÄ
 '1Ó¼Þ ³´Æ ½¸Û°Ù ¼Ï½¡
 
-?"MJ GET 15j.run/ichigonquest/spell/
+?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/

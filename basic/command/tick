@@ -19,4 +19,4 @@
 '1.4.0b3 ÷ÿ TICK(1) ∂ﬁ Ã¥œº¿
 '‘∏ 1/15760 ÀﬁÆ≥√ﬁ 1 ΩΩ–œΩ
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

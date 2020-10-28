@@ -10,4 +10,4 @@
 '  Ú²: 35 ³Þ§²µØÝ É Ì§
 ' FF ·­³Ì
 
-?"MJ GET 15j.run/pancake/command/
+?"MJ <?php print"$get"; ?> 15j.run/pancake/command/

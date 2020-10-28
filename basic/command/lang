@@ -19,4 +19,4 @@
 '                (IchigoJam bp)
 '1.3b08 ÖØ VER(3) Í ÍÝº³ »ÚÃ²Ï½
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

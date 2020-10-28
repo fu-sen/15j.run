@@ -20,4 +20,4 @@
 '1.3.0 ÖØ <I2C> ¦ ¾¯Ã² ÃÞ·Ï½¡
 'ÀÝ²Ê kHz¤ ÃÞÌ«ÙÄÊ 400 ÃÞ½¡
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

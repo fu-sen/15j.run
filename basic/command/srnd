@@ -13,4 +13,4 @@
 '<±À²> ÃÞ RND ¶Þ ÐÙ
 '×Ý½³Ë®³¶Þ ÍÝ¶¼Ï½
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

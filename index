@@ -9,10 +9,10 @@
 '                 ƒ  ‚ƒ  ƒƒ
 'ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 '
-'      ?"MJ GET 15J.RUN/
+'     ?"MJ GET(S) 15J.RUN/
 '
 'ƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒƒ
 '
 '    Enter(return) ÃÞ ÒÆ­°
 
-?"MJ GET 15j.run/1
+?"MJ <?php print"$get"; ?> 15j.run/1

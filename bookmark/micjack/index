@@ -11,4 +11,4 @@
 
 '[0] ÒÆ­° Í ÓÄÞÙ
 
-?"MJ GET 15j.run/bookmark/micjack/
+?"MJ <?php print"$get"; ?> 15j.run/bookmark/micjack/

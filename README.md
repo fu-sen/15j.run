@@ -17,7 +17,7 @@ Apache が動作しているサーバなので、\
 ## MixJuice コンテンツの使用方法
 
 次のコマンドで参照できます。GET の代わりに GETS も使用可能です。\
-（GETS は MixJuice 1.2.2 以降で参照可能）
+GETS は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では GETS を使用して下さい。
 
 ```
 ?"MJ GET 15J.RUN/
@@ -25,7 +25,7 @@ Apache が動作しているサーバなので、\
 
 ## 短縮 URL の使用方法
 
-[ふうせん🎈 Fu-sen.](https://jpn.balloon.im/) が公開している関連の MixJuice コンテンツは\
+[ふうせん🎈 Fu-sen.](https://balloon.im/) が公開している関連の MixJuice コンテンツは\
 `15J.RUN/英 1 文字` の短縮 URL を用意し、素早く参照できるようにしています。
 
 ```
@@ -38,7 +38,6 @@ Apache が動作しているサーバなので、\
 |---------|---|
 |15J.RUN/D|[MixJuice 向けコンテンツの作成と公開 - 動的コンテンツ生成 サンプル](http://kidspod.club/program/?id=685)|
 |15J.RUN/M|[MixJuice コンテンツ サンプル](https://github.com/fu-sen/mj.15j.run)|
-|15J.RUN/P|[MixJuice 向けコンテンツの作成と公開 - プログラムをサーバへ送る](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#post)|
 |15J.RUN/T|短縮 URL メニュー|
 |15J.RUN/U|[MixJuice 向けコンテンツの作成と公開 - User Agent](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/#ua)|
 

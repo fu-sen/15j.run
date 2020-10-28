@@ -16,4 +16,4 @@
 '[¶²¾Â]
 '±À²1É ÊºÍ ±À²2¦ ²ÚÏ½¡
 
-?"MJ GET 15j.run/ichigonquest/spell/
+?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/

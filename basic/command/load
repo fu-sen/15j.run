@@ -13,4 +13,4 @@
 '¹Şİ»Ş² IchigoJam ÃŞ ÖÏÚÃ²Ù
 'ÌßÛ¸Ş×ÑÊ ¼®³·®»ÚÏ½
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

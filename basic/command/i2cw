@@ -16,4 +16,4 @@
 '<I2C±ÄÞÚ½> Ê 0~127 ÃÞ½
 'ºÚÆ WRITE ËÞ¯Ä¦ Â¹Ã ¿³¼Ý¼Ï½
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

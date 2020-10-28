@@ -13,4 +13,4 @@
 '±À²1: 0=Â¹Ù|1=¹½|Êº
 '±À²2/±À²3: Å¼
 
-?"MJ GET 15j.run/ichigonquest/spell/
+?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/

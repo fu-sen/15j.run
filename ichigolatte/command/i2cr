@@ -17,4 +17,4 @@
 'I2C ÖÐºÐÏ´É ¿³¼­ÂÊ
 'i2cw ÃÞ µºÅ¯Ã¸ÀÞ»²¡
 
-?"MJ GET 15j.run/ichigolatte/command/
+?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/

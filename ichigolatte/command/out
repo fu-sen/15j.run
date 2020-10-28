@@ -13,4 +13,4 @@
 'OUT <Îß°Ä>É
 'HI¥LOW ¼Þ®³À²¦ ÍÝº³¼Ï½¡
 
-?"MJ GET 15j.run/ichigolatte/command/
+?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/

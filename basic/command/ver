@@ -17,4 +17,4 @@
 ' 2=·°ÎÞ°ÄÞ(KBD É ±À²¦ ¶´½)
 ' 3=¹ÞÝºÞ(1.3b7 ÏÃÞÉ LANG)
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

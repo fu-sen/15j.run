@@ -11,4 +11,4 @@
 'POKE #E0*8,#FF,#81,#81,#81
 'POKE #700,#01,#1C,#00,#20,#40
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

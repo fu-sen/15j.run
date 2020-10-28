@@ -10,4 +10,4 @@
 'ID: 24 (16¼Ý½³ 18)
 '¼­Ù²/±À²1/±À²2/±À²3: Å¼
 
-?"MJ GET 15j.run/ichigonquest/spell/
+?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/

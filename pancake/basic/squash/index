@@ -7,4 +7,4 @@
 
 '[0] PanCake+BASIC/ÌßÛ¸Þ×Ñ ÒÆ­°
 
-?"MJ GET 15j.run/pancake/basic/squash/
+?"MJ <?php print"$get"; ?> 15j.run/pancake/basic/squash/

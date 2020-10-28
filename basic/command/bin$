@@ -18,4 +18,4 @@
 '
 'BIN$ Ê PRINT ÃÞ ¼Ö³¼Ï½
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

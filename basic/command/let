@@ -18,4 +18,4 @@
 'LET [1],1,2,3,4,5
 'A="ABC"
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

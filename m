@@ -1,1 +1,1 @@
-?"MJ GET mj.15j.run/
+?"MJ <?php print"$get"; ?> mj.15j.run/

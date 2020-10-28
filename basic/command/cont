@@ -20,4 +20,4 @@
 'ÌßÛ¸Þ×Ñ ¼Þ¯º³ Á­³ ÃÞÊ
 '¿É ·Þ®³É ¾ÝÄ³ ¦ ¼Þ¯º³ ¼Ï½
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/

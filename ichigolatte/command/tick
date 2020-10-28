@@ -12,4 +12,4 @@
 '[¶²¾Â]
 '¶´½ ±À²Ê ÐØËÞ®³ ÃÞ½¡
 
-?"MJ GET 15j.run/ichigolatte/command/
+?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/

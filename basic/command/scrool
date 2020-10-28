@@ -18,4 +18,4 @@
 ' 2•DOWN  º¿
 ' 3•LEFT  À¿ﬁÿ
 
-?"MJ GET 15j.run/basic/command/
+?"MJ <?php print"$get"; ?> 15j.run/basic/command/
