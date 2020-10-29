@@ -4,4 +4,4 @@
 'ƒ‹‰Œƒ‹ŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒŒ
 
 <?php
-print '?"MJ <?php print"$get"; ?> 15j.run' . $path;
+print '?"MJ ' . $get . '15j.run' . $path;
