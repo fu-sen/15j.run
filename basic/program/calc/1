@@ -1,1 +1,10 @@
-?"MJ GET kidspod.club/mj/842
+CLS
+
+NEW
+
+1 INPUT"CALC shinsu?>",S:?:GOTO S
+2 INPUT"BIN>",I:?"`";BIN$(I):?:GOTO 2
+10 INPUT"DEC>",I:?I:?:GOTO 10
+16 INPUT"HEX>",I:?"#";HEX$(I):?:GOTO 16
+
+'OK

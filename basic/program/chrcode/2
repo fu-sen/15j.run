@@ -1,1 +1,13 @@
-?"MJ GET kidspod.club/mj/570
+CLS
+
+NEW
+
+5 'Chr code list POKE
+10 CLS
+20 FOR C=0 TO 255
+30 POKE #900+C,C
+40 NEXT
+50 LC 0,8
+60 END
+
+'OK

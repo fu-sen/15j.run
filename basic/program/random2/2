@@ -1,1 +1,10 @@
-?"MJ GET kidspod.club/mj/863
+CLS
+
+NEW
+
+10 'Random Screen 2
+20 CLS
+30 DRAW RND(64),RND(48),2
+40 GOTO 30
+
+'OK

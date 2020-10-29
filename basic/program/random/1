@@ -1,1 +1,12 @@
-?"MJ GET kidspod.club/mj/573
+CLS
+
+NEW
+
+5 'Random screen PRINT
+10 CLS
+20 R=RND(32*24-1)
+30 LOCATE R%32,R/32
+40 PRINT CHR$(RND(2));
+50 GOTO 20
+
+'OK

@@ -1,1 +1,10 @@
-?"MJ GET kidspod.club/mj/574
+CLS
+
+NEW
+
+5 'Random screen POKE
+10 CLS
+20 POKE #900+RND(32*24),RND(2)
+30 GOTO 20
+
+'OK

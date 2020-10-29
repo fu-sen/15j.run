@@ -1,1 +1,7 @@
-?"MJ GET kidspod.club/mj/843
+CLS
+
+NEW
+
+10 INPUT"DEC>",I:PRINT I:PRINT:GOTO 10
+
+'OK

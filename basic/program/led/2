@@ -1,1 +1,9 @@
-?"MJ GET kidspod.club/mj/572
+CLS
+
+NEW
+
+10 T=30
+20 LED TICK()%(T*2)/T
+30 GOTO 20
+
+'OK
