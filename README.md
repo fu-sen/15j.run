@@ -28,7 +28,7 @@ GETS は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では GETS 
 2020年12月18日より、イチゴジャム レシピ MixJuice 関連の短縮 URL は\
 `15j.in` へ移行しました。
 
-[`15j.in`](https://github.com/fu-sen/15j.in)
+[fu-sen/15j.in | GitHub](https://github.com/fu-sen/15j.in)
 
 ## MixJuice コンテンツ製作 について
 
