@@ -25,7 +25,7 @@ GETS は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では GETS 
 
 ## 短縮 URL
 
-2020年12月18日より、イチゴジャム レシピ MixJuice オンテンツ関連の\
+2020年12月18日より、イチゴジャム レシピ MixJuice コンテンツ関連の\
 短縮 URL は別のドメイン `15j.in` で提供しています。
 
 [fu-sen/15j.in | GitHub](https://github.com/fu-sen/15j.in)
