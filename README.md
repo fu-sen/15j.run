@@ -40,18 +40,19 @@ GETS は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では GETS 
 **電子工作マガジン | 電波新聞社 <https://www.dempa.co.jp/denshikousaku_01.php>**
 
 電子工作マガジン WINTER 2020（2021年2月号） 時空を超えて！帰ってきたパソコン・レクチャー 内で\
-IchigoJam web のバーチャル MixJuice で参照できるコンテンツとして イチゴジャム レシピ MixJuice コンテンツ が紹介されています。
+IchigoJam web のバーチャル MixJuice で参照できるコンテンツとして\
+イチゴジャム レシピ MixJuice コンテンツ が紹介されています。
 
 ## 関連 Web サイト
 
-IchigoJam https://ichigojam.net/ \
-MixJuice http://mixjuice.shizentai.jp/
+**IchigoJam <https://ichigojam.net/>** \
+**MixJuice <http://mixjuice.shizentai.jp/>**
 
-イチゴジャム レシピ https://15jamrecipe.jimdofree.com/
+**イチゴジャム レシピ <https://15jamrecipe.jimdofree.com/>**
 
 ## Powered by
 
-さくらのレンタルサーバ https://www.sakura.ne.jp/
+**さくらのレンタルサーバ <https://www.sakura.ne.jp/>**
 
 ## IchigoJam Advent Calendar 2018 - 10 日目
 
