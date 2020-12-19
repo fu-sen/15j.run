@@ -19,4 +19,4 @@
 '1.2b13 ÖØ <ÊßÙ½¼­³·> ¦
 'Ï²Å½ Æ½ÙÄ 480 ÊŞ²Æ ÅØÏ½
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

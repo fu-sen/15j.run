@@ -15,4 +15,4 @@
 '¼®Ø¦ ³Â¼Ï½
 '¹²»Ý¼·¥ÍÝ½³¦ ¼Ö³ ½ÙºÄ¶Þ ÃÞ·Ï½
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

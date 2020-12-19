@@ -8,4 +8,4 @@
 '* Á­³¶Ýº°ÄÞÉ Êº:
 ' 0=Êº# 1=ÊºA 2=ÊºB ... 7=ÊºG
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/
+?"MJ <?php print $get; ?> 15j.run/ichigonquest/spell/

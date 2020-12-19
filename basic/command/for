@@ -20,4 +20,4 @@
 'NEXT ÆÊ ÍÝ½³ ¦ Â¹Ï¾Ý
 'FOR ÃÞÊ = É¶ÜØÆ , Ó ¼Ö³ÃÞ·Ï½
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

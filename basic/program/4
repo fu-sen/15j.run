@@ -10,4 +10,4 @@
 '[ 3] Ï´ É ²Á×Ý
 '[ 0] BASIC ÒÆ­°
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/program/
+?"MJ <?php print $get; ?> 15j.run/basic/program/

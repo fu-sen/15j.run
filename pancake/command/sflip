@@ -14,4 +14,4 @@
 '#80 #05 #10 <ÊÞÝºÞ³> <ÊÝÃÝ>
 '#80 #05 #16 #02 #01
 
-?"MJ <?php print"$get"; ?> 15j.run/pancake/command/
+?"MJ <?php print $get; ?> 15j.run/pancake/command/

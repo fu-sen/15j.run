@@ -1,3 +1,3 @@
 ' - - - - - - - - - - - - - - -
 
-?"MJ <?php print"$get"; ?> 15j.run/pancake/
+?"MJ <?php print $get; ?> 15j.run/pancake/

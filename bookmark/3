@@ -1,11 +1,11 @@
 '²ÁºŞ¼Ş¬Ñ Ú¼Ëß MixJuice ºİÃİÂ Ê
 'Â·ŞÉ ºÏİÄŞ ÃŞÓ »İ¼®³ ÃŞ·Ï½
 '
-' ?"MJ <?php print"$get"; ?> 15j.run/
+' ?"MJ <?php print $get; ?> 15j.run/
 '
 'ÏÀÊ
 '
-' ?"MJ <?php print"$get"; ?> 15ja.ml/R
+' ?"MJ <?php print $get; ?> 15ja.ml/R
 '
 'MicJack ÃŞÊ MJ GKP ºÏİÄŞ ÆÖÙ
 '»İ¼®³ ¶Ş ¶É³ ÃŞ½B
@@ -15,4 +15,4 @@
 
 'Enter(return) ÃŞ ÒÆ­° Í ÓÄŞØÏ½
 
-?"MJ <?php print"$get"; ?> 15j.run/bookmark/
+?"MJ <?php print $get; ?> 15j.run/bookmark/

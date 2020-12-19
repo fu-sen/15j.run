@@ -15,4 +15,4 @@
 '0.9.7~1.2.3 ÃÞÊ OK ÃÞ
 'OK ¦ Ë®³¼Þ¾½Þ ¼­³Ø®³¼Ï½¡
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

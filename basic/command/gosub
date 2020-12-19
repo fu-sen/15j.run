@@ -17,4 +17,4 @@
 'RETURN ÃÞ ¼Þ¯º³¼À GOSUB É
 'ÂÂÞ·Í ¼®Ø¦ÓÄÞ¼Ï½
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

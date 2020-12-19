@@ -9,4 +9,4 @@
 '[ڲ]
 'c=scr(10,10);
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/
+?"MJ <?php print $get; ?> 15j.run/ichigolatte/command/

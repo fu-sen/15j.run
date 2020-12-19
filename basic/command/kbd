@@ -14,4 +14,4 @@
 ' 0 = US ·°ÎÞ°ÄÞ
 ' 1 = JP (JIS) ·°ÎÞ°ÄÞ
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

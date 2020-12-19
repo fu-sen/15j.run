@@ -18,4 +18,4 @@
 '1¥2¥4¥8¥16¥32¥64¥128¥256¥512¥
 '1024 ÆÀ²µ³¼Ï½
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

@@ -19,4 +19,4 @@
 '[ 2] ÂÂÞ· ²Á×Ý
 '[ 0] BASIC ÒÆ­°
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/program/2
+?"MJ <?php print $get; ?> 15j.run/basic/program/2

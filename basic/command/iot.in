@@ -20,4 +20,4 @@
 '1.3b11 ÖØ #1152 ¶×
 '»²ÀÞ² 8 ÊÞ²Ä¦ ¼Þ­¼Ý ÃÞ·Ï½¡
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

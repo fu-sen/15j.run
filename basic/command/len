@@ -16,4 +16,4 @@
 '∫…  ﬁ›¡ ÷ÿ " œ¿  CHR$(0) œ√ﬁ…
 ' ﬁ≤ƒΩ≥ ¶ ∂¥ºœΩ
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

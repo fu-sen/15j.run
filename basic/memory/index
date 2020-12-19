@@ -7,4 +7,4 @@
 
 'ì<HELP ÃÞÓ ÐÙ ºÄ¶Þ ÃÞ·ÙÖ¡
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/memory/
+?"MJ <?php print $get; ?> 15j.run/basic/memory/

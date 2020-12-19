@@ -18,4 +18,4 @@
 'ｽｳｼﾞ+ｶｲｷﾞｮｳ ﾉ ｽｳﾁｦ ｶｴｼﾏｽ｡
 '1.0.0b9 ﾖﾘ 1 ﾊﾞｲﾄ ｶｴｼﾏｽ｡
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/
+?"MJ <?php print $get; ?> 15j.run/ichigolatte/command/

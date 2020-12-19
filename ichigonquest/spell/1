@@ -22,4 +22,4 @@
 '[30] WAIT  ³ª²Ä
 '[ 0] IchigonQuest ÒÆ­°
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/
+?"MJ <?php print $get; ?> 15j.run/ichigonquest/spell/

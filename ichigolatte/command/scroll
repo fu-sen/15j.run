@@ -17,4 +17,4 @@
 '0.8 ÖØ <Û°Ã°¼®Ý>¶Þ Â²¶ »ÚÃ²Ï½¡
 '  0=Å¼  1=Û°Ã°¼®Ý(·Þ¬¸¶×Ë®³¼Þ)
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/
+?"MJ <?php print $get; ?> 15j.run/ichigolatte/command/

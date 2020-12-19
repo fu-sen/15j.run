@@ -10,4 +10,4 @@
 '#1082~#1149 ×²Ý ÊÞ¯Ì§ (1.3.0~)
 '#114A~#117F I2C ÊÞ¯Ì§ (1.3.0~)
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/memory/
+?"MJ <?php print $get; ?> 15j.run/basic/memory/

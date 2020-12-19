@@ -4,7 +4,7 @@ NEW
 10 'MixJuice - ²ÁºÞ¼Þ¬Ñ Ú¼Ëß
 20 CLS
 30 ?
-40 ?"MJ <?php print"$get"; ?> 15j.run/
+40 ?"MJ <?php print $get; ?> 15j.run/
 
 'OK - ÌßÛ¸Þ×Ñ ¦ ¼Þ­¼Ý ¼Ï¼À¡
 

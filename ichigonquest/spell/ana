@@ -18,4 +18,4 @@
 '¾ÝÀ¸É ±À²Ê Â·ÞÉ ÄµØÃÞ½¡
 '  0 = BTN  2 = IN2
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigonquest/spell/
+?"MJ <?php print $get; ?> 15j.run/ichigonquest/spell/

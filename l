@@ -1,3 +1,3 @@
 ' - - - - - - - - - - - - - - -
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/
+?"MJ <?php print $get; ?> 15j.run/ichigolatte/

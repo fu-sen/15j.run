@@ -17,4 +17,4 @@
 '<P> Ê Â·ÞÉ ÄµØÃÞ½¡
 ' 0=PRESET 1¥¼®³Ø¬¸=PSET 2=XOR
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

@@ -16,4 +16,4 @@
 '<Ë®³¼Þ> Ê 01=Ë®³¼Þ¤
 '00=ËË®³¼Þ ÃÞ½¡
 
-?"MJ <?php print"$get"; ?> 15j.run/pancake/command/
+?"MJ <?php print $get; ?> 15j.run/pancake/command/

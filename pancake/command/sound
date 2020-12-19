@@ -19,4 +19,4 @@
 '#80 #0B #09 #04 #00 #04 #04
 '#04 #07 #04 #FF
 
-?"MJ <?php print"$get"; ?> 15j.run/pancake/command/SOUND2
+?"MJ <?php print $get; ?> 15j.run/pancake/command/SOUND2

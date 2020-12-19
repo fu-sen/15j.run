@@ -19,4 +19,4 @@
 ' 00 = 0ß   01 = Ä¹² 90ß
 ' 02 = 180ß 03 = ÊÝÄ¹² 90ß
 
-?"MJ <?php print"$get"; ?> 15j.run/pancake/command/
+?"MJ <?php print $get; ?> 15j.run/pancake/command/

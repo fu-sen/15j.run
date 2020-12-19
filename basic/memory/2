@@ -10,4 +10,4 @@
 '#1E82~#1F49 ×²Ý ÊÞ¯Ì§
 '#1F4A~#1F7F I2C ÊÞ¯Ì§
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/memory/
+?"MJ <?php print $get; ?> 15j.run/basic/memory/

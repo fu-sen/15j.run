@@ -16,4 +16,4 @@
 '1.1.0 ²º³Ê UART É ¾¯Ã² ÆÖØ
 'À²µ³±ÌßØÃÞ ¶ÞÒÝ¸Ø±¶Þ ÄÞ³»¼Ï½
 
-?"MJ <?php print"$get"; ?> 15j.run/basic/command/
+?"MJ <?php print $get; ?> 15j.run/basic/command/

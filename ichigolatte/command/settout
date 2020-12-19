@@ -15,4 +15,4 @@
 '0.8 ÖØ setTout() ÃÞ
 '¾¯Ã²¦ ¶²¼Þ®¼Ï½¡
 
-?"MJ <?php print"$get"; ?> 15j.run/ichigolatte/command/
+?"MJ <?php print $get; ?> 15j.run/ichigolatte/command/

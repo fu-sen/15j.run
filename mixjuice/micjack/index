@@ -17,4 +17,4 @@
 
 'Enter(return) ÃÞ Î¶É ºÏÝÄÞ
 
-?"MJ <?php print"$get"; ?> 15j.run/mixjuice/micjack/1
+?"MJ <?php print $get; ?> 15j.run/mixjuice/micjack/1
