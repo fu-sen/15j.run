@@ -34,6 +34,14 @@ GETS は MixJuice 1.2.2 以降で参照可能です。IchigoJam web では GETS 
 
 [MixJuice 向けコンテンツの作成と公開 | イチゴジャム レシピ](https://15jamrecipe.jimdofree.com/mixjuice/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AE%E4%BD%9C%E6%88%90%E3%81%A8%E5%85%AC%E9%96%8B/)
 
+## 掲載・紹介
+
+**電子工作マガジン <https://denkomagazine.net/>** \
+**電子工作マガジン | 電波新聞社 <https://www.dempa.co.jp/denshikousaku_01.php>**
+
+電子工作マガジン WINTER 2020（2021年2月号） 時空を超えて！帰ってきたパソコン・レクチャー 内で\
+IchigoJam web のバーチャル MixJuice で参照できるコンテンツとして イチゴジャム レシピ MixJuice コンテンツ が紹介されています。
+
 ## 関連 Web サイト
 
 IchigoJam https://ichigojam.net/ \
