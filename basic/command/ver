@@ -16,5 +16,6 @@
 ' 1=Ìß×¯ÄÌ«°Ñ(ap¥RPi ÅÄÞ)
 ' 2=·°ÎÞ°ÄÞ(KBD É ±À²¦ ¶´½)
 ' 3=¹ÞÝºÞ(1.3b7 ÏÃÞÉ LANG)
+' 4=ËÞÃÞµ ·¶¸¥1 ËÞ®³ É TICK()
 
 ?"MJ <?php print $get; ?> 15j.run/basic/command/
