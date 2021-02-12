@@ -1,10 +1,1 @@
-CLS
-
-NEW
-
-5 'Random screen POKE
-10 CLS
-20 POKE #900+RND(32*24),RND(2)
-30 GOTO 20
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/rndchr-poke.bas

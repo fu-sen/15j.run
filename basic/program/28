@@ -1,10 +1,1 @@
-CLS
-
-NEW
-
-10 'IchigoJam song
-20 BEEP RND(100)+1,30
-30 WAIT 30
-40 GOTO 10
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/song.bas

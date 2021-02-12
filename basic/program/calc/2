@@ -1,7 +1,1 @@
-CLS
-
-NEW
-
-10 INPUT"DEC>",I:PRINT I:PRINT:GOTO 10
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/calc-old.bas

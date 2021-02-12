@@ -1,13 +1,1 @@
-CLS
-
-NEW
-
-5 'Balloons
-10 CLS:CLV:CLP
-20 X=RND(31)
-30 LOCATE X,23:PRINT CHR$(232)
-40 WAIT 7
-50 LOCATE X,23:PRINT CHR$(242);
-60 GOTO 20
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/balloons.bas

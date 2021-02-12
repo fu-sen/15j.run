@@ -1,15 +1,1 @@
-CLS
-
-NEW
-
-10 PRINT"¼Þ¬Ý¹ÝÎßÝ!"
-20 IF INKEY()<>0 PRINT"¸Þ°":GOTO 60
-30 IF INKEY()<>0 PRINT"Á®·":GOTO 60
-40 IF INKEY()<>0 PRINT"Êß°":GOTO 60
-50 GOTO 20
-60 IF INKEY()<>0 GOTO 60
-70 IF INKEY()=0 GOTO 70
-80 IF INKEY()<>0 GOTO 80
-90 GOTO 10
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/jyanken1.bas

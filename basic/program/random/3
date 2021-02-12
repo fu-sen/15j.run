@@ -1,11 +1,1 @@
-CLS
-
-NEW
-
-10 'Random screen
-15 IF VER()>12233 VIDEO 3
-20 CLS
-30 POKE #900+RND(16*12),RND(2)
-40 GOTO 30
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/rndchr-big.bas

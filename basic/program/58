@@ -1,11 +1,1 @@
-CLE
-
-NEW
-
-10 'IchigoJam rhythm
-20 COPY #900,RND(#D00),768
-30 BEEP PEEK(#900)
-40 WAIT 6
-50 GOTO 20
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/rhythm.bas

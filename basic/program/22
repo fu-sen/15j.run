@@ -1,12 +1,1 @@
-CLS
-
-NEW
-
-1 '3 min timer
-10 N=3:C=60:CLT:CLS:LED 0
-20 T=N*60*C-TICK()
-30 IF T<=0 LED 1:END
-40 S=T/C:M=S/60:S=S%60
-50 LC 0,0:? M;"m";S;"s ":GOTO 20
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/3mintime.bas

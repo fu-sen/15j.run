@@ -1,10 +1,1 @@
-CLS
-
-NEW
-
-10 'Random Screen 2
-20 CLS
-30 DRAW RND(64),RND(48),2
-40 GOTO 30
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/rndchr2-1.4.bas

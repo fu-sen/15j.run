@@ -1,12 +1,1 @@
-NEW
-
-CLS
-
-10 'Random Screen 2
-20 CLS
-30 A=#900+RND(768)
-40 P=PEEK(A)%16
-50 POKE A,#80+P^(1<<RND(4))
-60 GOTO 30
-
-'OK
+?"MJ <?php print $get; ?> 15j.in/rndchr2.bas
